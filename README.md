@@ -2,6 +2,9 @@
 
 🔒 Este proyecto consiste en la creación de un formulario de login minimalista utilizando HTML5, CSS3 y JavaScript. El formulario incluye campos para el nombre de usuario y la contraseña, con validación de ambos campos. Además, la interfaz está diseñada para ser minimalista, con texto blanco sobre un fondo oscuro y un botón de enviar de color verde. 🔑
 
+----
+![](LOGIN.png)
+
 ## Características del formulario de login:
 - 🔍 **Estructura HTML clara y concisa**: El archivo HTML proporciona una estructura clara y organizada para el formulario de login, incluyendo etiquetas semánticas como `<form>`, `<input>` y `<button>`. 🔧
 - 🎨 **Estilos CSS atractivos y minimalistas**: Utilizando CSS3, se han aplicado estilos modernos y minimalistas al formulario para crear una interfaz atractiva visualmente. 🖌️
