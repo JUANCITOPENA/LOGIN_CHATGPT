@@ -8,6 +8,10 @@ Este proyecto consiste en la creación de un formulario de login minimalista uti
 - **Validación de campos con JavaScript**: Se ha implementado la validación de los campos de nombre de usuario y contraseña utilizando JavaScript para garantizar que se ingresen valores válidos antes de enviar el formulario.
 - **Interactividad con el usuario**: El formulario incluye animaciones de latido en el logo y un icono de corazón para hacer la experiencia más interactiva para el usuario.
 
+----
+
+Puedes ver una demostración en vivo del formulario [aquí](https://juancitopena.github.io/LOGIN_CHATGPT/).
+
 ## Instrucciones de uso:
 1. Clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
@@ -23,5 +27,3 @@ Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archiv
 ---
 
 ¡Espero que disfrutes utilizando este formulario de login minimalista en tus proyectos! Si tienes alguna pregunta o comentario, no dudes en contactarme. ¡Gracias por tu interés! 🚀
-
-Puedes ver una demostración en vivo del formulario [aquí](https://juancitopena.github.io/LOGIN_CHATGPT/).
